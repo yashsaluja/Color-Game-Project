@@ -68,7 +68,8 @@ button {
 	outline: none;
 }
 
-button:hover {
+button:hover
+ {
 	color: white;
 	background: steelblue;
 }
